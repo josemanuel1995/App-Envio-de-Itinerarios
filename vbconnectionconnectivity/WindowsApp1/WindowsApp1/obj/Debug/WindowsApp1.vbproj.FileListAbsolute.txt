@@ -1,0 +1,70 @@
+g:\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\vbconnectionfinal.mdf
+g:\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\vbconnectionfinal_log.ldf
+g:\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+g:\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+g:\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+g:\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+g:\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+g:\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+g:\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+g:\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+g:\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+g:\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+g:\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+g:\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\arauj\Downloads\Compressed\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\arauj\Downloads\Compressed\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\arauj\Downloads\Compressed\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\arauj\Downloads\Compressed\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\arauj\Downloads\Compressed\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\arauj\Downloads\Compressed\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\arauj\Downloads\Compressed\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\arauj\Downloads\Compressed\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\arauj\Downloads\Compressed\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\arauj\Downloads\Compressed\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\arauj\Downloads\Compressed\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\arauj\Downloads\Compressed\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\arauj\Downloads\Compressed\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\Database1.mdf
+C:\Users\arauj\Downloads\Compressed\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\Database1_log.ldf
+C:\Users\arauj\Desktop\Talleres de newshore\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\Database1.mdf
+C:\Users\arauj\Desktop\Talleres de newshore\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\Database1_log.ldf
+C:\Users\arauj\Desktop\Talleres de newshore\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\arauj\Desktop\Talleres de newshore\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\arauj\Desktop\Talleres de newshore\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\arauj\Desktop\Talleres de newshore\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\arauj\Desktop\Talleres de newshore\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\arauj\Desktop\Talleres de newshore\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\arauj\Desktop\Talleres de newshore\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\arauj\Desktop\Talleres de newshore\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\arauj\Desktop\Talleres de newshore\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\arauj\Desktop\Talleres de newshore\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\arauj\Desktop\Talleres de newshore\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\arauj\Desktop\Talleres de newshore\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+C:\Users\arauj\Desktop\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\Database1.mdf
+C:\Users\arauj\Desktop\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\Database1_log.ldf
+C:\Users\arauj\Desktop\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+C:\Users\arauj\Desktop\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+C:\Users\arauj\Desktop\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+C:\Users\arauj\Desktop\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+C:\Users\arauj\Desktop\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+C:\Users\arauj\Desktop\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+C:\Users\arauj\Desktop\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+C:\Users\arauj\Desktop\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+C:\Users\arauj\Desktop\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+C:\Users\arauj\Desktop\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+C:\Users\arauj\Desktop\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+C:\Users\arauj\Desktop\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
+D:\Documentos de Trabajos\Prueba admision -newshore\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\Database1.mdf
+D:\Documentos de Trabajos\Prueba admision -newshore\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\Database1_log.ldf
+D:\Documentos de Trabajos\Prueba admision -newshore\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe.config
+D:\Documentos de Trabajos\Prueba admision -newshore\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.exe
+D:\Documentos de Trabajos\Prueba admision -newshore\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.pdb
+D:\Documentos de Trabajos\Prueba admision -newshore\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\bin\Debug\WindowsApp1.xml
+D:\Documentos de Trabajos\Prueba admision -newshore\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbprojAssemblyReference.cache
+D:\Documentos de Trabajos\Prueba admision -newshore\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Form1.resources
+D:\Documentos de Trabajos\Prueba admision -newshore\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.Resources.resources
+D:\Documentos de Trabajos\Prueba admision -newshore\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.GenerateResource.cache
+D:\Documentos de Trabajos\Prueba admision -newshore\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.vbproj.CoreCompileInputs.cache
+D:\Documentos de Trabajos\Prueba admision -newshore\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.exe
+D:\Documentos de Trabajos\Prueba admision -newshore\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.xml
+D:\Documentos de Trabajos\Prueba admision -newshore\Talleres de newshore\Problema 5\vbconnectionconnectivity\WindowsApp1\WindowsApp1\obj\Debug\WindowsApp1.pdb
